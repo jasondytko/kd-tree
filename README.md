@@ -1,7 +1,7 @@
 kd-tree
 =======
 
-k-d tree implementation in python
+k-d tree implementation in python 2.x
 
 This provides the ability to perform approximate nearest neighbor searches of points in k-dimensional space.
 
